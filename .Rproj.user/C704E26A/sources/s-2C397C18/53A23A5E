@@ -3,7 +3,7 @@
     "path": "D:/programming/flexdashboard_example/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "1768614335",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1600806152426.0,
@@ -11,16 +11,16 @@
     "relative_order": 2,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "1,34",
-        "scrollLine": "0",
+        "cursorPosition": "26,32",
+        "scrollLine": "15",
         "last_setup_crc32": "2C397C18f912f6f6"
     },
     "folds": "",
-    "lastKnownWriteTime": 1600810649,
+    "lastKnownWriteTime": 1600811049,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1600810649780,
+    "last_content_update": 1600811049089,
     "read_only": false,
     "read_only_alternatives": []
 }

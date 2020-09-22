@@ -24,7 +24,7 @@ county <- read.csv("https://raw.githubusercontent.com/nytimes/covid-19-data/mast
 Column {data-width=650}
 -----------------------------------------------------------------------
 
-### Chart A
+### Coronavirus deaths by county
 
 ```{r}
 county_choropleth(county)
