@@ -1,0 +1,47 @@
+---
+title: "Test Coronavirus dashboard"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    social: menu
+    source_code: embed
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(tidyverse)
+library(choroplethr)
+library(choroplethrMaps)
+
+##  Data
+
+county <- read.csv("https://raw.githubusercontent.com/nytimes/covid-19-data/master/live/us-counties.csv") %>% 
+		drop_na(fips) %>%
+		mutate(region = fips, value = deaths)
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart A
+
+```{r}
+county_choropleth(county)
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B
+
+```{r}
+
+```
+
+### Chart C
+
+```{r}
+
+```
+

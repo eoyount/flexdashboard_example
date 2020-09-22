@@ -1,0 +1,32 @@
+{
+    "id": "07AA8A21",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1600810301039.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "expression": "county",
+        "caption": "county",
+        "totalObservations": 3237,
+        "displayedObservations": 3237,
+        "variables": 12,
+        "cacheKey": "4BE02E7D",
+        "object": "county",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=county&cache_key=4BE02E7D&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 8296228785919887916,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1600810301039,
+    "read_only": false,
+    "read_only_alternatives": []
+}

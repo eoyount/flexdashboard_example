@@ -1,0 +1,32 @@
+{
+    "id": "6F4C4D11",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1600810087426.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "expression": "county.map",
+        "caption": "county.map",
+        "totalObservations": 97253,
+        "displayedObservations": 97253,
+        "variables": 14,
+        "cacheKey": "8B0C8C70",
+        "object": "county.map",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=county.map&cache_key=8B0C8C70&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2482730676494692210,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1600810087426,
+    "read_only": false,
+    "read_only_alternatives": []
+}
